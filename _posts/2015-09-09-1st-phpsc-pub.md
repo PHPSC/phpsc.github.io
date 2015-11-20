@@ -1,6 +1,6 @@
 ---
 title: 1st PHPSC Pub
-author: Thiago Paes
+author: mrprompt
 layout: post
 comments: true
 slug: 1st-phpsc-pub

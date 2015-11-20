@@ -1,6 +1,6 @@
 ---
 title: 2nd PHPSC InCompany
-author: Thiago Paes
+author: mrprompt
 layout: post
 comments: true
 slug: 2nd-phpsc-incompany

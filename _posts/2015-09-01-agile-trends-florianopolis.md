@@ -1,6 +1,6 @@
 ---
 title: Agile Trends Florianópolis
-author: Thiago Paes
+author: mrprompt
 layout: post
 comments: true
 slug: agile-trends-florianopolis

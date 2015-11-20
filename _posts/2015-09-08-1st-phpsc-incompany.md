@@ -1,6 +1,6 @@
 ---
 title: 1st PHPSC InCompany
-author: Thiago Paes
+author: mrprompt
 layout: post
 comments: true
 slug: 1st-phpsc-in-company
