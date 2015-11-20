@@ -2,7 +2,8 @@
 title: Na parceria PHPSC e editora Novatec quem ganha é você!
 author: alexandre
 layout: post
-permalink: /?p=50
+comments: true
+slug: na-parceria-phpsc-e-editora-novatec-que-ganha-e-voce
 categories:
   - Promoções
 ---

@@ -2,7 +2,8 @@
 title: Bar oficial do PHPSC Conf
 author: admin
 layout: post
-permalink: /?p=31
+comments: true
+slug: bar-oficial-do-phpsc-conf
 categories:
   - Eventos
 ---

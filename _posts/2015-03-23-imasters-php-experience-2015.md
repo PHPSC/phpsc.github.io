@@ -2,7 +2,8 @@
 title: iMasters PHP Experience 2015
 author: lcobucci
 layout: post
-permalink: /?p=163
+comments: true
+slug: imasters-php-experience-2015
 categories:
   - Eventos
 tags:

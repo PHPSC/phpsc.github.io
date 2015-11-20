@@ -2,7 +2,8 @@
 title: 'Chamada de Trabalhos &#8211; PHPSC Conference 2012'
 author: admin
 layout: post
-permalink: /?p=60
+comments: true
+slug: chamada-de-trabalhos-phpsc-conference-2012
 categories:
   - Eventos
 tags:

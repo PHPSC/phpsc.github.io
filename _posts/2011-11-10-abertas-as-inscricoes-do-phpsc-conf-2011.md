@@ -2,7 +2,8 @@
 title: Abertas as inscrições do PHPSC Conf 2011
 author: admin
 layout: post
-permalink: /?p=56
+comments: true
+slug: abertas-as-inscricoes-do-phpsc-conf-2011
 categories:
   - Eventos
 ---

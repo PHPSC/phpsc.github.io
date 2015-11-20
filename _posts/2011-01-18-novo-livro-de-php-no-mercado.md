@@ -2,7 +2,8 @@
 title: Novo Livro de PHP no mercado
 author: alexandre
 layout: post
-permalink: /?p=49
+comments: true
+slug: novo-livro-de-php-no-mercado
 categories:
   - Livros
 ---

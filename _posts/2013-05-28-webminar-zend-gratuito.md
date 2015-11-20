@@ -2,7 +2,8 @@
 title: Webminar Zend gratuito
 author: lcobucci
 layout: post
-permalink: /?p=73
+comments: true
+slug: webminar-zend-gratuito
 categories:
   - Cursos
 tags:

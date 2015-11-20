@@ -2,7 +2,8 @@
 title: Agile Trends Florianópolis
 author: Thiago Paes
 layout: post
-permalink: /?p=190
+comments: true
+slug: agile-trends-florianopolis
 categories:
   - Eventos
 tags:

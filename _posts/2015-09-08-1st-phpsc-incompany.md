@@ -2,7 +2,8 @@
 title: 1st PHPSC InCompany
 author: Thiago Paes
 layout: post
-permalink: /?p=183
+comments: true
+slug: 1st-phpsc-in-company
 categories:
   - Eventos
 ---

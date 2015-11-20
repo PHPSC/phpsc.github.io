@@ -2,7 +2,8 @@
 title: 'Certificados PHPSC Conf 2010 &#8211; Informação'
 author: alexandre
 layout: post
-permalink: /?p=41
+comments: true
+slug: certificados-phpsc-conf-2010-informacao
 categories:
   - Eventos
 ---

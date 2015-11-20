@@ -2,7 +2,8 @@
 title: DigitalOcean apoia o PHPSC
 author: lcobucci
 layout: post
-permalink: /?p=90
+comments: true
+slug: digitalocean-apoia-o-phpsc
 categories:
   - Novidades
 ---

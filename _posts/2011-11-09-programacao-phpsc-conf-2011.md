@@ -2,7 +2,8 @@
 title: Programação PHPSC Conf 2011
 author: admin
 layout: post
-permalink: /?p=54
+comments: true
+slug: programacao-phpsc-conf-2011
 categories:
   - Eventos
 ---

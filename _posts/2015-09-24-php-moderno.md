@@ -2,7 +2,8 @@
 title: PHP Moderno
 author: Ronaldo M. Rodrigues
 layout: post
-permalink: /?p=207
+comments: true
+slug: php-moderno
 categories:
   - Livros
 tags:

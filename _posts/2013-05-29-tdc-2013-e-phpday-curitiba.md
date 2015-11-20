@@ -2,7 +2,8 @@
 title: TDC 2013 e PHPDay Curitiba!
 author: lcobucci
 layout: post
-permalink: /?p=71
+comments: true
+slug: tdc-2013-e-phpday-curitiba
 categories:
   - Eventos
 tags:

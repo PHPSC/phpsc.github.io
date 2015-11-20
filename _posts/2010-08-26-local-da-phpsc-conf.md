@@ -2,7 +2,8 @@
 title: Local da PHPSC Conf 2010
 author: alexandre
 layout: post
-permalink: /?p=39
+comments: true
+slug: local-da-phpsc-conf
 categories:
   - Eventos
 ---

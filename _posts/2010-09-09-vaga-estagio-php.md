@@ -2,7 +2,8 @@
 title: Vaga Estágio PHP
 author: admin
 layout: post
-permalink: /?p=46
+comments: true
+slug: vaga-estagio-php
 categories:
   - Jobs
 tags:

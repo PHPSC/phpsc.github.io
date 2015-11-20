@@ -2,7 +2,8 @@
 title: Comunidade PHPSC no PHP Conference Brasil 2012
 author: admin
 layout: post
-permalink: /?p=66
+comments: true
+slug: comunidade-phpsc-no-php-conference-brasil
 categories:
   - Eventos
   - Promoções

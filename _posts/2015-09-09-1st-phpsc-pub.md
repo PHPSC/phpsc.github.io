@@ -2,7 +2,8 @@
 title: 1st PHPSC Pub
 author: Thiago Paes
 layout: post
-permalink: /?p=196
+comments: true
+slug: 1st-phpsc-pub
 categories:
   - Eventos
   - Novidades

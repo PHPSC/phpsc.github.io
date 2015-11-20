@@ -2,7 +2,8 @@
 title: 2nd PHPSC InCompany
 author: Thiago Paes
 layout: post
-permalink: /?p=214
+comments: true
+slug: 2nd-phpsc-incompany
 categories:
   - Eventos
 ---

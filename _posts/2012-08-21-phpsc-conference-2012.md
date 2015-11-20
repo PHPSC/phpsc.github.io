@@ -2,7 +2,8 @@
 title: PHPSC Conference 2012
 author: admin
 layout: post
-permalink: /?p=62
+comments: true
+slug: phpsc-conference-2012
 categories:
   - Eventos
 tags:

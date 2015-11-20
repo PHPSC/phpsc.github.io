@@ -2,7 +2,8 @@
 title: Vagas para programadores PHP e Designer em Chapecó
 author: admin
 layout: post
-permalink: /?p=45
+comments: true
+slug: vagas-para-programadores-php-e-designer-em-chapeco
 categories:
   - Jobs
 tags:

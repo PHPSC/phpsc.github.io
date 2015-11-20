@@ -2,7 +2,8 @@
 title: Informações PHPSC Conf 2010
 author: alexandre
 layout: post
-permalink: /?p=33
+comments: true
+slug: informacoes-phpsc-conf-2010
 categories:
   - Eventos
 ---

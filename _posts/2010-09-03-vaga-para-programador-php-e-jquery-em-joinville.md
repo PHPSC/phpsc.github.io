@@ -2,7 +2,8 @@
 title: Vaga para programador PHP e jQuery em Joinville
 author: admin
 layout: post
-permalink: /?p=30
+comments: true
+slug: vaga-para-programador-php-e-jquery-em-joinville
 categories:
   - Jobs
 tags:

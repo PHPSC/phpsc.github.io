@@ -2,7 +2,8 @@
 title: Produtos do grupo PHPSC
 author: alexandre
 layout: post
-permalink: /?p=37
+comments: true
+slug: produtos-do-grupo-phpsc
 categories:
   - Eventos
 ---

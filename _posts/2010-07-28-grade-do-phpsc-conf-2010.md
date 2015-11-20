@@ -2,7 +2,8 @@
 title: Grade do PHPSC Conf 2010
 author: admin
 layout: post
-permalink: /?p=15
+comments: true
+slug: 2010-07-28-grade-do-phpsc-conf-2010
 categories:
   - Eventos
 ---

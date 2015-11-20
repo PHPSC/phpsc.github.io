@@ -2,7 +2,8 @@
 title: Agradecimento
 author: alexandre
 layout: post
-permalink: /?p=42
+comments: true
+slug: agradecimento
 categories:
   - Eventos
 ---

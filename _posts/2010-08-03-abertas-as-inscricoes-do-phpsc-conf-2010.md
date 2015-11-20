@@ -2,7 +2,8 @@
 title: Abertas as inscrições do PHPSC Conf 2010
 author: admin
 layout: post
-permalink: /?p=20
+comments: true
+slug: abertas-as-inscricoes-do-phpsc-conf-2010
 categories:
   - Eventos
 ---
