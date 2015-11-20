@@ -10,6 +10,6 @@ categories:
 
 O evento será realizado no dia 17.10 e a chamada de trabalhos (relâmpago) está aberta a todos, só comentar em nosso [Meetup][1].
 
-Aguardamos você lá. <img src="http://localhost:8080/wp-includes/images/smilies/simple-smile.png" alt=":)" class="wp-smiley" style="height: 1em; max-height: 1em;" />
+Aguardamos você lá. ;)
 
  [1]: http://www.meetup.com/pt/PHPSC-Floripa/events/225927349/

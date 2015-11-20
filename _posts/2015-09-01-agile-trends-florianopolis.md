@@ -14,7 +14,7 @@ tags:
   <div class="gmail_quote">
     <div dir="ltr">
       <div>
-        <img class="alignnone size-full wp-image-191" src="http://www.phpsc.com.br/wp-content/uploads/2015/09/unnamed.png" alt="unnamed" width="819" height="618" /><br /> No dia 04 de Setembro será realizada uma edição especial do <b>Agile Trends </b>em parceria com a CESUSC. O evento acontece tradicionalmente em São Paulo, e pela primeira vez será realizado em Florianópolis.
+        <img class="alignnone size-full wp-image-191" src="/uploads/2015/09/unnamed.png" alt="unnamed" width="819" height="618" /><br /> No dia 04 de Setembro será realizada uma edição especial do <b>Agile Trends </b>em parceria com a CESUSC. O evento acontece tradicionalmente em São Paulo, e pela primeira vez será realizado em Florianópolis.
       </div>
 
       <div>

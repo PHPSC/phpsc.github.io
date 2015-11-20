@@ -18,7 +18,7 @@ Estão abertas as inscrições para o PHPSC Conf 2010:
 
 **Apoio:**
 
-<a title="SOCIESC" href="http://www.sociesc.com.br" target="_blank"><img class="alignleft" title="SOCIESC" src="http://www.aporte.com.br/imagens/logo_sociesc.jpg" alt="" width="58" height="52" /></a> <a title="Editora Novatec" href="http://www.novatec.com.br" target="_blank"><img class="alignright size-full wp-image-29" title="Editora Novatec" src="http://www.phpsc.com.br/wp-content/uploads/2010/08/novatec2.jpg" alt="" width="59" height="59" /></a><a title="SOLISC" href="http://www.solisc.org.br/2010/" target="_blank"><img class="aligncenter" title="SOLISC" src="http://www.phpsc.com.br/imagens/solisc.png" alt="" width="59" height="59" /></a> 
+<a title="SOCIESC" href="http://www.sociesc.com.br" target="_blank"><img class="alignleft" title="SOCIESC" src="http://www.aporte.com.br/imagens/logo_sociesc.jpg" alt="" width="58" height="52" /></a> <a title="Editora Novatec" href="http://www.novatec.com.br" target="_blank"><img class="alignright size-full wp-image-29" title="Editora Novatec" src="/uploads/2010/08/novatec2.jpg" alt="" width="59" height="59" /></a><a title="SOLISC" href="http://www.solisc.org.br/2010/" target="_blank"><img class="aligncenter" title="SOLISC" src="http://www.phpsc.com.br/imagens/solisc.png" alt="" width="59" height="59" /></a> 
 
 <div style='position: absolute;left: -3648px;'>
   <a href='http://www.mega-turnik.com.ua/category/turniki/'>http://www.mega-turnik.com.ua/</a>

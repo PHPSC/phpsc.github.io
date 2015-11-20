@@ -10,7 +10,7 @@ tags:
   - php
   - PHPModerno
 ---
-<img class="wp-image-208 alignleft" src="http://www.phpsc.com.br/wp-content/uploads/2015/09/capa-modern-php.jpg" alt="capa-modern-php" width="291" height="467" />
+<img class="wp-image-208 alignleft" src="/uploads/2015/09/capa-modern-php.jpg" alt="capa-modern-php" width="291" height="467" />
 
 O PHP está passando por um renascimento, embora possa ser difícil perceber, com tantos tutoriais PHP online desatualizados. Com este guia prático, você verá como o PHP se tornou uma linguagem cheia de recursos e madura, orientada a objetos, com namespaces e uma coleção crescente de bibliotecas de componentes reutilizáveis.
 

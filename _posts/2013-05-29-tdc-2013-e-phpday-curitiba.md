@@ -35,7 +35,7 @@ tags:
 </div>
 
 <br style="clear:both" />  
-[<img class="alignleft size-full wp-image-72" src="http://www.phpsc.com.br/wp-content/uploads/2013/05/logo_PHP_DAY.png" alt="PHPDay Curitiba" width="180" height="114" />][2]  
+[<img class="alignleft size-full wp-image-72" src="/uploads/2013/05/logo_PHP_DAY.png" alt="PHPDay Curitiba" width="180" height="114" />][2]  
 O PHPDay Curitiba foi uma iniciativa muito bacana do pessoal do PHPPR, e que tivemos a oportunidade de prestigiar. O evento foi organizado pelos nossos amigos <a href="https://twitter.com/flaviosilveira" target="_blank">Flávio Silveira</a>, <a href="http://www.felipemarques.com.br/" target="_blank">Felipe Marques</a> e <a href="https://www.facebook.com/cristopher.rodrigues.75" target="_blank">Cristopher Rodrigues</a> no espaço da <a href="http://www.aldeiaco.com.br/" target="_blank">Aldeia Coworking</a>. Foi um dia inteiro de palestras e discussões interessantes entre os desenvolvedores que apareceram por lá. Representando a organização do PHPSC foram o <a href="http://about.me/lcobucci" target="_blank">Luís Otávio Cobucci Oblonczyk</a> e o <a href="https://twitter.com/marcelarauj0" target="_blank">Marcel Araújo</a>, e ambos apresentaram suas palestras no evento, as quais vocês podem conferir abaixo:
 
 <div>
