@@ -10,4 +10,11 @@ twitter_username: PHP_SC
 github_username:  PHPSC
 
 # Build settings
-markdown: kramdown
+markdown: redcarpet
+highlighter: pygments
+timezone: America/Sao_Paulo
+permalink: pretty
+
+# Pagination
+paginate: 3
+pagination_path: "/:num"
