@@ -11,9 +11,6 @@ tags:
   - Site
   - Comunidade
 ---
-
-# Novo Site do PHPSC
-
 Hoje lançamos um novo site para o PHPSC, por enquanto ele está “limpo”, sem um layout mega elaborado, justamente para dar a chance de você, membro ou não do grupo, de contribuir.
 
 O site a partir de agora, está hospedado no [Github](https://www.github.com), como um projeto colaborativo, ou seja, se você quiser ajudar, basta fazer um *fork* [do site](https://github.com/PHPSC/phpsc.github.io) e enviar um pull request com sua contribuição.
