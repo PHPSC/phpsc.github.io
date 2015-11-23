@@ -18,3 +18,7 @@ permalink: pretty
 # Pagination
 paginate: 3
 pagination_path: "/:num"
+
+# Plugins
+gems:
+  - jekyll-sitemap
