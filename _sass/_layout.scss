@@ -3,22 +3,42 @@
  */
 .site-header {
     min-height: 500px;
-    background: transparent url(../img/capa_grupo_face.png) no-repeat top center;
+
+    background: transparent url(../img/capa_grupo_face.png) no-repeat center center;
+
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
     background-size: cover;
+
     // Positioning context for the mobile navigation icon
     position: relative;
+
+    @include media-query($on-palm) {
+        min-height: 200px;
+        background-position: top right;
+    }
 }
 
 .site-title {
     margin-bottom: 0;
+    margin-top: 200px;
     float: left;
     &,
     &:visited {
         color: $grey-color-light;
     }
+    width: 100px;
+    height: 100px;
+    background: transparent url(../img/logo_phpsc_p.png) no-repeat top left;
+
+    @include media-query($on-palm) {
+        background-size: 60px 60px;
+        margin-top: 10px;
+    }
+}
+.site-title > span {
+    display: none;
 }
 
 .site-nav {
