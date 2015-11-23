@@ -2,19 +2,17 @@
  * Site header
  */
 .site-header {
-    border-top: 5px solid $grey-color-dark;
-    border-bottom: 1px solid $grey-color-light;
-    min-height: 250px;
+    min-height: 500px;
     background: transparent url(../img/capa_grupo_face.png) no-repeat top center;
-
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
     // Positioning context for the mobile navigation icon
     position: relative;
 }
 
 .site-title {
-    font-size: 26px;
-    line-height: 56px;
-    letter-spacing: -1px;
     margin-bottom: 0;
     float: left;
     &,
@@ -174,6 +172,7 @@
 
     > li {
         margin-bottom: $spacing-unit;
+        border-bottom: 1px dotted $grey-color;
     }
 }
 

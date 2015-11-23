@@ -1,11 +1,13 @@
 # Site settings
-title: PHPSC
+title: PHPSC - Grupo de Usuarios PHP de Santa catarina
 email: contato@phpsc.com.br
 description: > # this means to ignore newlines until "baseurl:"
   PHPSC
   Grupo de Usuarios PHP de Santa catarina.
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://www.phpsc.com.br" # the base hostname & protocol for your site
+
+# Social
 twitter_username: PHP_SC
 github_username:  PHPSC
 
@@ -22,3 +24,6 @@ pagination_path: "/:num"
 # Plugins
 gems:
   - jekyll-sitemap
+
+sass:
+  style: compressed
