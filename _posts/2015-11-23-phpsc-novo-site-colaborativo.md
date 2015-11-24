@@ -19,7 +19,7 @@ Não sabe como contribuir, veja a lista de [issues](https://github.com/PHPSC/php
 
 Para contribuir é bem simples, e todos os passos são explicados na [wiki](https://github.com/PHPSC/phpsc.github.io/wiki/Contribuindo) do projeto.
 
-O passo foi dados, vamos mostrar o quão colaborativa pode ser nossa comunidade.
+O primeiro passo foi dado, vamos mostrar o quão colaborativa pode ser nossa comunidade.
 
 Contamos com vocês PHP’ers.
 
