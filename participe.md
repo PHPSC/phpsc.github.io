@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Participe!
+title: Participe
 permalink: /participe/
 ---
 ![Capa](/uploads/2014/09/phpsc.jpg)

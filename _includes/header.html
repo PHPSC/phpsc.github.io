@@ -14,13 +14,14 @@
       </a>
 
       <div class="trigger">
+        <a class="page-link" href="{{ site.baseurl }}/">Início</a>
         {% for page in site.pages %}
           {% if page.title %}
             <a class="page-link" href="{{ page.url | prepend: site.baseurl }}">{{ page.title }}</a>
           {% endif %}
         {% endfor %}
-        <a class="page-link" href="http://www.meetup.com/pt/PHPSC-Floripa/">Reuniões</a>
-        <a class="page-link" href="https://phpsc-slackin.herokuapp.com/">Slack</a>
+        <a class="page-link" href="http://www.meetup.com/pt/PHPSC-Floripa/" target="_blank">Reuniões</a>
+        <a class="page-link" href="https://phpsc-slackin.herokuapp.com/" target="_blank">Slack</a>
       </div>
     </nav>
 
