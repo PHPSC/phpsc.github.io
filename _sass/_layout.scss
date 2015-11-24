@@ -261,3 +261,22 @@
         }
     }
 }
+
+.fork-me-on-github {
+	display: none;
+}
+@media only screen and (min-width: 992px) {
+	.fork-me-on-github {
+		display: inline;
+	}
+
+	.fork-me-on-github img {
+		position: absolute;
+		top: 0;
+		right: 0;
+		z-index: 1500;
+		border: 0;
+		width: 149px;
+		height: 149px;
+	}
+}
