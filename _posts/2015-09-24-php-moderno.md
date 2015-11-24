@@ -1,6 +1,6 @@
 ---
 title: PHP Moderno
-author: Ronaldo M. Rodrigues
+author: whera
 layout: post
 comments: true
 slug: php-moderno
@@ -17,9 +17,9 @@ O PHP está passando por um renascimento, embora possa ser difícil perceber, co
 
 O autor Josh Lockhart – criador do PHP The Right Way, uma iniciativa popular para incentivar as melhores práticas associadas ao PHP – mostra os recursos dessa nova linguagem em ação. Você conhecerá as melhores práticas para a arquitetura e o planejamento de aplicações, bancos de dados, segurança, testes, debugging e implantação. Se tiver uma compreensão básica de PHP e quiser aperfeiçoar suas habilidades, este livro foi escrito para você.
 
-Conheça os recursos do PHP moderno como namespaces, traits, generators e closures.  
-Descubra como encontrar, usar e criar componentes PHP.  
-Siga as melhores práticas para garantir a segurança das aplicações, trabalhar com bancos de dados, tratar erros e exceções e muito mais.  
-Conheça ferramentas e técnicas para implantação, ajustes, testes e geração de perfil de suas aplicações PHP.  
-Explore as implementações de HVVM e da linguagem Hack do Facebook – e como elas afetam o PHP moderno.  
+Conheça os recursos do PHP moderno como namespaces, traits, generators e closures.
+Descubra como encontrar, usar e criar componentes PHP.
+Siga as melhores práticas para garantir a segurança das aplicações, trabalhar com bancos de dados, tratar erros e exceções e muito mais.
+Conheça ferramentas e técnicas para implantação, ajustes, testes e geração de perfil de suas aplicações PHP.
+Explore as implementações de HVVM e da linguagem Hack do Facebook – e como elas afetam o PHP moderno.
 Crie um ambiente local de desenvolvimento que seja muito parecido com seu servidor de produção.

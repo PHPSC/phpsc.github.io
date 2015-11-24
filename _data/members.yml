@@ -1,32 +1,43 @@
-- name: Arthur Alves Venturin
+arthurventurin:
+  name: Arthur Alves Venturin
   github: ArthurVenturin
 
-- name: Johnathan Cardoso
+djhonyy:
+  name: Johnathan Cardoso
   github: djhonyy
 
-- name: Elton Minetto
+eminetto:
+  name: Elton Minetto
   github: eminetto
 
-- name: Rafael Kassner
+kassner:
+  name: Rafael Kassner
   github: kassner
 
-- name: Luís Otávio Cobucci Oblonczyk
+lcobucci:
+  name: Luís Otávio Cobucci Oblonczyk
   github: lcobucci
 
-- name: Domingos Teruel
+mingomax:
+  name: Domingos Teruel
   github: mingomax
 
-- name: Thiago Paes
+mrprompt:
+  name: Thiago Paes
   github: mrprompt
 
-- name: William G. Comnisky
+wcomnisky:
+  name: William G. Comnisky
   github: wcomnisky
 
-- name: Iago Effting
+iagoeffting:
+  name: Iago Effting
   github: iagoEffting
 
-- name: Ronaldo Matos Rodrigues
+whera:
+  name: Ronaldo Matos Rodrigues
   github: whera
 
-- name: Sérgio Rafael Siqueira
+sergiors:
+  name: Sérgio Rafael Siqueira
   github: sergiors

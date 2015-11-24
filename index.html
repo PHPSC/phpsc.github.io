@@ -6,12 +6,12 @@ layout: default
 
   <ul class="post-list">
     {% for post in paginator.posts %}
+      {% assign author = site.data.members[post.author] %}
       <li>
-        <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
-
         <h2>
           <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
         </h2>
+        <p class="post-meta">{{ post.date | date: "%-d / %m / %Y" }}{% if post.author %} • <a href="https://github.com/{{ author.github }}">{{ author.name }}</a>{% endif %}{% if post.meta %} • {{ post.meta }}{% endif %}</p>
 
         {{ post.content }}
       </li>
@@ -49,7 +49,5 @@ layout: default
     </li>
   </ul>
   {% endif %}
-
-  <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></p>
 
 </div>
