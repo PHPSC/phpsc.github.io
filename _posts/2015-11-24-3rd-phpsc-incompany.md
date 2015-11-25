@@ -18,7 +18,7 @@ e estamos abrindo a chamada de trabalhos para os palestrantes.
 ~~Ainda não temos local definido para o evento, mas você já pode ver a grade no [nosso meetup](http://www.meetup.com/pt/PHPSC-Floripa).~~
 
 **ATUALIZAÇÃO**
-Temos um local! A [Taller](http://taller.net.br) nos ofereceu o espaço para sediar o evento. 
+Temos um local! A [Taller Web Solutions](http://taller.net.br) nos ofereceu o espaço para sediar o evento. 
 
 Configura em [nosso meetup](http://www.meetup.com/pt/PHPSC-Floripa) a grade e como chegar ao local.
 **/ATUALIZAÇÃO**
