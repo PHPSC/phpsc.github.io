@@ -18,5 +18,7 @@ de um pull request ou cadastrando novas issues. Abaixo, os contribuidores a quem
     <a href="https://github.com/{{ contributor.login }}" target="_blank">@{{ contributor.login }}</a> <br>
     
     <b>Contribuições:</b> {{ contributor.contributions }} <br>
+    
+    <hr>
 </div>
 {% endfor %}
