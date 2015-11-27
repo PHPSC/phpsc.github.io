@@ -1,9 +1,8 @@
 ---
 layout: page
+title: Contribuidores
 permalink: /contribuidores/
 ---
-# Contribuidores
-
 O PHPSC existe graças a uma comunidade ativa e empenhada no crescimento da linguagem para todos.
 
 Nosso site não poderia ser diferente, ele é feito de forma colaborativa, onde todos podem enviar suas contribuições através 
