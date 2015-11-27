@@ -3,7 +3,7 @@ layout: page
 title: Conference
 permalink: /conference/
 ---
-![Logo Conference](/img/logo_conference.png)
+![Logo Conference]({{ site.baseurl }}/img/logo_conference.png)
 A PHPSC Conference tem como objetivo principal discutir melhores práticas sobre a tecnologia PHP e
 áreas co-relatas como Design, Técnicas de Desenvolvimento, Banco de Dados, Software Livre etc.
 
