@@ -3,7 +3,7 @@ title: Grupo de Usuários de PHP de Santa Catarina
 email: contato@phpsc.com.br
 description: > # this means to ignore newlines until "baseurl:"
   PHPSC - Grupo de Usuários de PHP de Santa catarina.
-baseurl: "" # the subpath of your site, e.g. /blog/
+baseurl: "/phpsc.github.io" # the subpath of your site, e.g. /blog/
 url: "http://www.phpsc.com.br" # the base hostname & protocol for your site
 
 # Social
@@ -25,6 +25,7 @@ pagination_path: "/:num"
 # Plugins
 gems:
   - jekyll-sitemap
+  - jekyll-paginate
 
 sass:
   style: compressed
