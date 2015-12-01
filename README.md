@@ -7,6 +7,9 @@ Site do Grupo de Usuários PHP de Santa Catarina
 Se tem interesse em nos ajudar, dê uma olhada [neste conteúdo](https://github.com/PHPSC/phpsc.github.io/wiki/Contribuindo).
 
 
+## Todo
+[ ] Configurar para utilizar as variáveis do Bootstrap nos arquivos Sass
+
 ## Licença de uso
 
 Copyright (c) 2015, Grupo de usuários de PHP de Santa Catarina (PHPSC)

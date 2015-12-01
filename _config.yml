@@ -1,5 +1,6 @@
 # Site settings
-title: Grupo de Usuários de PHP de Santa Catarina
+title: PHPSC
+title_long: Grupo de Usuários de PHP de Santa Catarina
 email: contato@phpsc.com.br
 description: > # this means to ignore newlines until "baseurl:"
   PHPSC - Grupo de Usuários de PHP de Santa catarina.
