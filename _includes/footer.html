@@ -1,58 +1,8 @@
 <footer class="site-footer">
   <div class="container">
     <div class="row">
-      <div class="col-sm-4">
-        <ul class="social-media-list list-inline">
-          {% if site.github_username %}
-          <li>
-            <a href="https://github.com/{{ site.github_username }}" title="Github">
-              <i class="fa fa-github"></i> <span>{{ site.github_username }}</span>
-            </a>
-          </li>
-          {% endif %}
-
-          {% if site.twitter_username %}
-          <li>
-            <a href="https://twitter.com/{{ site.twitter_username }}" title="Twitter">
-              <i class="fa fa-twitter"></i> <span>{{ site.twitter_username }}</span>
-            </a>
-          </li>
-          {% endif %}
-
-          {% if site.linkedin_id %}
-          <li>
-            <a href="https://www.linkedin.com/company/{{ site.linkedin_id }}" title="Linkedin">
-              <i class="fa fa-linkedin"></i> <span>{{ site.linkedin_id }}</span>
-            </a>
-          </li>
-          {% endif %}
-
-          {% if site.facebook_username %}
-          <li>
-            <a href="https://www.facebook.com/{{ site.facebook_username }}" title="Facebook">
-              <i class="fa fa-facebook"></i> <span>{{ site.facebook_username }}</span>
-            </a>
-          </li>
-          {% endif %}
-
-          <li>
-            <a href="{{ "/feed.xml" | prepend: site.baseurl }}" title="RSS">
-              <i class="fa fa-rss"></i> <span>subscribe via RSS</span>
-            </a>
-          </li>
-        </ul>
-      </div>
-
-      <div class="col-sm-8 text-right">
-        {{ site.description }}
-      </div>
-    </div>
-
-  </div>
-
-  <div class="container">
-    <div class="row">
       <div id="facebook" class="col-md-6">
+        <div class="social-box">
           <div id="fb-root"></div>
           <div class="fb-page" data-href="https://www.facebook.com/santa.catarina.elephants" data-width="360" data-height="607" data-small-header="false" data-adapt-container-width="true" data-hide-cover="false" data-show-facepile="true" data-show-posts="true">
             <div class="fb-xfbml-parse-ignore">
@@ -61,9 +11,64 @@
               </blockquote>
             </div>
           </div>
+        </div><!-- /.social-box-->
       </div>
       <div id="twitter" class="col-md-6">
+        <div class="social-box">
           <a class="twitter-timeline" href="https://twitter.com/PHP_SC" data-widget-id="671777378184638464">Tweets by @PHP_SC</a>
+        </div><!-- /.social-box-->
+      </div>
+    </div>
+  </div>
+
+  <div class="copy">
+    <div class="container">
+      <div class="row">
+        <div class="col-sm-4">
+          <ul class="social-media-list list-inline">
+            {% if site.github_username %}
+            <li>
+              <a href="https://github.com/{{ site.github_username }}" title="Github">
+                <i class="fa fa-github"></i> <span>{{ site.github_username }}</span>
+              </a>
+            </li>
+            {% endif %}
+
+            {% if site.twitter_username %}
+            <li>
+              <a href="https://twitter.com/{{ site.twitter_username }}" title="Twitter">
+                <i class="fa fa-twitter"></i> <span>{{ site.twitter_username }}</span>
+              </a>
+            </li>
+            {% endif %}
+
+            {% if site.linkedin_id %}
+            <li>
+              <a href="https://www.linkedin.com/company/{{ site.linkedin_id }}" title="Linkedin">
+                <i class="fa fa-linkedin"></i> <span>{{ site.linkedin_id }}</span>
+              </a>
+            </li>
+            {% endif %}
+
+            {% if site.facebook_username %}
+            <li>
+              <a href="https://www.facebook.com/{{ site.facebook_username }}" title="Facebook">
+                <i class="fa fa-facebook"></i> <span>{{ site.facebook_username }}</span>
+              </a>
+            </li>
+            {% endif %}
+
+            <li>
+              <a href="{{ "/feed.xml" | prepend: site.baseurl }}" title="RSS">
+              <i class="fa fa-rss"></i> <span>subscribe via RSS</span>
+              </a>
+            </li>
+          </ul>
+        </div>
+
+        <div class="col-sm-8 text-md-right">
+          {{ site.description }}
+        </div>
       </div>
     </div>
   </div>

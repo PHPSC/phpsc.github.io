@@ -8,9 +8,9 @@ layout: default
     {% for post in paginator.posts %}
       {% assign author = site.data.members[post.author] %}
       <li>
-        <h2>
+        <h1>
           <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
-        </h2>
+        </h1>
         <p class="post-meta">{{ post.date | date: "%-d / %m / %Y" }}{% if post.author %} • <a href="https://github.com/{{ author.github }}">{{ author.name }}</a>{% endif %}{% if post.meta %} • {{ post.meta }}{% endif %}</p>
 
         {{ post.content }}
@@ -19,35 +19,37 @@ layout: default
   </ul>
 
   {% if paginator.total_pages > 1 %}
-  <ul class="pagination">
-    <li>
-      {% if paginator.previous_page %}
+  <div class="text-center">
+    <ul class="pagination">
+      <li>
+        {% if paginator.previous_page %}
         <a href="{{ paginator.previous_page_path | prepend: site.baseurl | replace: '//', '/' }}">&laquo;</a>
-      {% else %}
+        {% else %}
         <span>&laquo;</span>
-      {% endif %}
-    </li>
+        {% endif %}
+      </li>
 
-    {% for page in (1..paginator.total_pages) %}
+      {% for page in (1..paginator.total_pages) %}
       <li>
         {% if page == paginator.page %}
-          <a href="#" class="active">{{ page }}</a>
+        <a href="#" class="active">{{ page }}</a>
         {% elsif page == 1 %}
-          <a href="{{ '/' | prepend: site.baseurl | replace: '//', '/' }}">{{ page }}</a>
+        <a href="{{ '/' | prepend: site.baseurl | replace: '//', '/' }}">{{ page }}</a>
         {% else %}
-          <a href="{{ site.paginate_path | prepend: site.baseurl | replace: '//', '/' | replace: ':num', page }}">{{ page }}</a>
+        <a href="{{ site.paginate_path | prepend: site.baseurl | replace: '//', '/' | replace: ':num', page }}">{{ page }}</a>
         {% endif %}
-    </li>
-    {% endfor %}
+      </li>
+      {% endfor %}
 
-    <li>
-      {% if paginator.next_page %}
+      <li>
+        {% if paginator.next_page %}
         <a href="{{ paginator.next_page_path | prepend: site.baseurl | replace: '//', '/' }}">&raquo;</a>
-      {% else %}
+        {% else %}
         <span>&raquo;</span>
-      {% endif %}
-    </li>
-  </ul>
+        {% endif %}
+      </li>
+    </ul>
+  </div>
   {% endif %}
 
 </div>

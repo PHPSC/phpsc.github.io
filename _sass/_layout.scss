@@ -1,3 +1,6 @@
+@import "vars";
+@import "utilities";
+
 /**
  * Site header
  */
@@ -109,8 +112,19 @@
  * Site footer
  */
 .site-footer {
-    border-top: 1px solid $grey-color-light;
-    padding: $spacing-unit 0;
+    background: {
+        image: url("../img/php_pattern.png");
+        color: $purple;
+    }
+
+    .social-box {
+        margin: $spacing-unit 0;
+    }
+
+    .copy {
+        padding: $spacing-unit 0;
+        background-color: #fff;
+    }
 }
 
 .footer-heading {
@@ -121,7 +135,8 @@
 .contact-list,
 .social-media-list {
     list-style: none;
-    margin-left: 0;
+    margin: 0;
+    padding: 0;
 }
 .social-media-list li span {
     display: none;
@@ -190,7 +205,8 @@
 }
 
 .post-list {
-    margin-left: 0;
+    margin: 0;
+    padding: 0;
     list-style: none;
 
     > li {
@@ -257,7 +273,7 @@
 }
 
 .fork-me-on-github {
-	display: none;
+    display: none;
 }
 
 @media only screen and (min-width: 992px) {
@@ -273,5 +289,19 @@
         border: 0;
         width: 149px;
         height: 149px;
+    }
+}
+
+.navbar-purple {
+    background-color: #fff;
+
+    .navbar-nav > li {
+        > a {
+            color: $purple;
+
+            &:hover {
+                background-color: inherit;
+            }
+        }
     }
 }
