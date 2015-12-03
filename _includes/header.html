@@ -1,29 +1,35 @@
-<header>
-  <nav class="navbar navbar-static-top navbar-purple">
-      <div class="container">
-          <div class="navbar-header">
-              <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#collapse" aria-expanded="false">
-                  <span class="sr-only">Toggle navigation</span>
-                  <span class="icon-bar"></span>
-                  <span class="icon-bar"></span>
-                  <span class="icon-bar"></span>
-              </button>
-              <a class="navbar-brand" href="{{ site.baseurl }}/">{{ site.title }}</a>
-          </div>
+<nav class="navbar navbar-static-top navbar-purple">
+  <div class="container">
+      <div class="navbar-header">
+          <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#collapse" aria-expanded="false">
+              <span class="sr-only">Toggle navigation</span>
+              <span class="icon-bar"></span>
+              <span class="icon-bar"></span>
+              <span class="icon-bar"></span>
+          </button>
+          <a class="navbar-brand" href="{{ site.baseurl }}/">{{ site.title }}</a>
+      </div>
 
-          <div class="collapse navbar-collapse" id="collapse">
-              <ul class="nav navbar-nav">
-                  {% for page in site.pages %}
-                    {% if page.title %}
-                        <li><a href="{{ page.url | prepend: site.baseurl }}">{{ page.title }}</a></li>
-                    {% endif %}
-                  {% endfor %}
-              </ul>
-              <ul class="nav navbar-nav navbar-right">
-                  <li><a href="http://www.meetup.com/pt/PHPSC-Floripa/">Reuniões</a></li>
-                  <li><a href="https://phpsc-slackin.herokuapp.com/">Slack</a></li>
-              </ul>
-          </div><!-- /.navbar-collapse -->
-      </div><!-- /.container -->
-  </nav>
+      <div class="collapse navbar-collapse" id="collapse">
+          <ul class="nav navbar-nav">
+              {% for page in site.pages %}
+                {% if page.title %}
+                    <li><a href="{{ page.url | prepend: site.baseurl }}">{{ page.title }}</a></li>
+                {% endif %}
+              {% endfor %}
+          </ul>
+          <ul class="nav navbar-nav navbar-right">
+              <li><a href="http://www.meetup.com/pt/PHPSC-Floripa/">Reuniões</a></li>
+              <li><a href="https://phpsc-slackin.herokuapp.com/">Slack</a></li>
+          </ul>
+      </div><!-- /.navbar-collapse -->
+  </div><!-- /.container -->
+</nav>
+
+<header class="header">
+    <div class="container">
+        <a href="{{ site.baseurl }}/">
+            <img src="{{ site.baseurl }}/img/logo_branca.png" class="logo" alt="{{ site.title }}">
+        </a>
+    </div><!-- /.container -->
 </header>
