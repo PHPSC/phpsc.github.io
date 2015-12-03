@@ -1,28 +1,40 @@
-@media (min-width: 768px) {
-    .container {
-        width: 750px;
-    }
-}
+@import "vars";
+@import "utilities";
 
 /**
  * Site header
  */
-.site-header {
-    min-height: 500px;
 
-    background: transparent url(../img/capa_grupo_face.png) no-repeat center center;
-
-    -webkit-background-size: cover;
-    -moz-background-size: cover;
-    -o-background-size: cover;
-    background-size: cover;
-
-    // Positioning context for the mobile navigation icon
+.header {
     position: relative;
+    height: 300px;
+    background: {
+        image: url("../img/elephants.jpg");
+        repeat: no-repeat;
+        position: center;
+        size: cover;
+    }
 
-    @include media-query($on-palm) {
-        min-height: 200px;
-        background-position: top right;
+    .container {
+        position: relative;
+        z-index: 20;
+    }
+
+    &:before {
+        position: absolute;
+        z-index: 10;
+        content: "";
+        top: 0;
+        left: 0;
+        right: 0;
+        bottom: 0;
+        background-color: $blue;
+        opacity: 0.5;
+    }
+
+    .logo {
+        height: 200px;
+        margin-top: 50px;
     }
 }
 
@@ -115,8 +127,19 @@
  * Site footer
  */
 .site-footer {
-    border-top: 1px solid $grey-color-light;
-    padding: $spacing-unit 0;
+    background: {
+        image: url("../img/php_pattern.png");
+        color: $purple;
+    }
+
+    .social-box {
+        margin: $spacing-unit 0;
+    }
+
+    .copy {
+        padding: $spacing-unit 0;
+        background-color: #fff;
+    }
 }
 
 .footer-heading {
@@ -127,7 +150,8 @@
 .contact-list,
 .social-media-list {
     list-style: none;
-    margin-left: 0;
+    margin: 0;
+    padding: 0;
 }
 .social-media-list li span {
     display: none;
@@ -196,7 +220,8 @@
 }
 
 .post-list {
-    margin-left: 0;
+    margin: 0;
+    padding: 0;
     list-style: none;
 
     > li {
@@ -263,20 +288,39 @@
 }
 
 .fork-me-on-github {
-	display: none;
+    display: none;
 }
-@media only screen and (min-width: 992px) {
-	.fork-me-on-github {
-		display: inline;
-	}
 
-	.fork-me-on-github img {
-		position: absolute;
-		top: 0;
-		right: 0;
-		z-index: 1500;
-		border: 0;
-		width: 149px;
-		height: 149px;
-	}
+@media only screen and (min-width: 992px) {
+    .fork-me-on-github {
+        display: inline;
+    }
+
+    .fork-me-on-github img {
+        position: absolute;
+        top: 51px;
+        right: 0;
+        z-index: 1500;
+        border: 0;
+        width: 149px;
+        height: 149px;
+    }
+}
+
+.navbar {
+    margin-bottom: 0;
+}
+
+.navbar-purple {
+    background-color: #fff;
+
+    .navbar-nav > li {
+        > a {
+            color: $purple;
+
+            &:hover {
+                background-color: inherit;
+            }
+        }
+    }
 }

@@ -4,25 +4,20 @@ layout: default
 {% assign author = site.data.members[page.author] %}
 
 <div class="post">
+  <header class="page-header">
+    <h1 class="post-title">{{ page.title }}</h1>
+    <p class="post-meta">
+      {{ page.date | date: "%-d / %m / %Y" }}
+      {% if page.author %} &bull; <a href="https://github.com/{{ author.github }}">{{ author.name }}</a>{% endif %}
+      {% if page.meta %} &bull; {{ page.meta }}{% endif %}
+    </p>
+  </header>
 
-  <div class="row">
-    <header class="post-header">
-      <h1 class="post-title">{{ page.title }}</h1>
-      <p class="post-meta">{{ page.date | date: "%-d / %m / %Y" }}{% if page.author %} • <a href="https://github.com/{{ author.github }}">{{ author.name }}</a>{% endif %}{% if page.meta %} • {{ page.meta }}{% endif %}</p>
-    </header>
-  </div>
+  <div id="share" class="pull-right"></div>
 
-  <div class="row">
-    <div id="share" class="pull-right"></div>
-  </div>
+  <article class="post-content">
+    {{ content }}
+  </article>
 
-  <div class="row">
-    <article class="post-content">
-      {{ content }}
-    </article>
-  </div>
-
-  <div class="row">
-    <div id="disqus_thread"></div>
-  </div>
+  <div id="disqus_thread"></div>
 </div>
