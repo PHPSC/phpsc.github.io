@@ -324,3 +324,10 @@
         }
     }
 }
+
+.navbar-toggle {
+    border-color: $purple;
+    .icon-bar {
+        background-color: $purple;
+    }
+}

@@ -1,16 +1,16 @@
 <nav class="navbar navbar-static-top navbar-purple">
   <div class="container">
       <div class="navbar-header">
-          <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#collapse" aria-expanded="false">
+          <a href="#" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#menu-collapse" aria-expanded="false">
               <span class="sr-only">Toggle navigation</span>
               <span class="icon-bar"></span>
               <span class="icon-bar"></span>
               <span class="icon-bar"></span>
-          </button>
+          </a>
           <a class="navbar-brand" href="{{ site.baseurl }}/">{{ site.title }}</a>
       </div>
 
-      <div class="collapse navbar-collapse" id="collapse">
+      <div class="collapse navbar-collapse" id="menu-collapse">
           <ul class="nav navbar-nav">
               {% for page in site.pages %}
                 {% if page.title %}
