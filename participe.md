@@ -3,7 +3,7 @@ layout: page
 title: Participe
 permalink: /participe/
 ---
-![Capa]({{ site.baseurl }}/uploads/2014/09/phpsc.jpg)
+![Capa]({{ site.baseurl }}/uploads/2014/09/phpsc.jpg)<br>
 Nós do PHPSC estamos sempre abertos àqueles que querem ajudar nosso grupo, e este é o ponto de entrada de novos participantes.
 
 Antes de qualquer coisa é fundamental entender como nos organizamos em relação aos membros da organização do PHPSC. Temos dois grupos: colaboradores e core.
