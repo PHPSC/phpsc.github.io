@@ -12,7 +12,8 @@ tags:
   - Darkmira Tour PHP
     
 ---
-![Darkmira Tour PHP 2016](http://louc.me/i/12tpe+) Brasil recebe em março o evento internacional de 3 dias, que propõem, dando respostas pragmáticas, revisar o estado da arte da segurança e da fábrica de software nos desenvolvimentos PHP, com essa proposta que a Universidade Católica de Brasilia recebe o **Darkmira Tour PHP 2016**.
+<img class="pull-left" style="margin-right: 15px" alt="Darkmira Tour PHP 2016" src="http://louc.me/i/12tpe+"/>
+Brasil recebe em março o evento internacional de 3 dias, que propõem, dando respostas pragmáticas, revisar o estado da arte da segurança e da fábrica de software nos desenvolvimentos PHP, com essa proposta que a Universidade Católica de Brasilia recebe o **Darkmira Tour PHP 2016**.
 
 O evento ocorrerá nos dias 18, 19 & 20 de março 2016, sendo um dia de oficinas de 4 horas ( 18 de Março das 9h às 18 h) que permitirá aos participantes adquirir habilidades podem ser implementadas imediatamente em seu desenvolvimento. Nos dias 19 & 20 de Março, 2 dias de palestras e lightning talks abordando ferramentas e informações práticas e concretas que você poderá usar de imediato.
 
