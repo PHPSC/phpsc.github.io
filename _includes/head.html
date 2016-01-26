@@ -65,7 +65,7 @@
   {% else %}
   <meta name="twitter:description" content="{{ site.description }}">
   {% endif %}
-  <meta name="twitter:image:src" content="{{ "/img/logo_phpsc_transparent.png" | prepend: site.baseurl }}">
+  <meta name="twitter:image:src" content="{{ '/img/logo_phpsc_transparent.png' | prepend: site.baseurl }}">
   <!-- End twitter cards metadatas -->
 
   <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css">
@@ -76,7 +76,7 @@
   <link rel="stylesheet" href="//cdn.rawgit.com/tabalinas/jssocials/v0.2.0/dist/jssocials-theme-flat.css">
   <!-- end jssocials -->
 
-  <link rel="stylesheet" href="{{ "/css/main.css" | prepend: site.baseurl }}">
+  <link rel="stylesheet" href="{{ '/css/main.css' | prepend: site.baseurl | prepend: site.url }}">
   <link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}">
-  <link rel="alternate" type="application/rss+xml" title="{{ site.title }}" href="{{ "/feed.xml" | prepend: site.baseurl | prepend: site.url }}" />
+  <link rel="alternate" type="application/rss+xml" title="{{ site.title }}" href="{{ '/feed.xml' | prepend: site.baseurl | prepend: site.url }}" />
 </head>
