@@ -10,7 +10,7 @@ de um pull request ou cadastrando novas issues. Abaixo, os contribuidores a quem
 
 <div class="row">
     {% for contributor in site.github.contributors %}
-    <div class="col-md-4">
+    <div class="col-md-2">
         <div class="panel panel-default">
           <div class="panel-body">
             <a href="https://github.com/{{ contributor.login }}" target="_blank">

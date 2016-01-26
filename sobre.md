@@ -23,3 +23,23 @@ linguagem;
 - Auxiliar entidades públicas e privadas que buscam utilizar software livre e ter um contato
 com PHP;
 - Buscar oportunidades de negócios entre os seus participantes.
+
+<hr>
+
+<h4>Core Members</h4>
+<div class="row">
+    {% for contributor in site.github.organization_members %}
+    <div class="col-md-4">
+        <div class="panel panel-default">
+          <div class="panel-body">
+            <a href="https://github.com/{{ contributor.login }}" target="_blank">
+              <img src="{{ contributor.avatar_url }}" class="img-rounded img-responsive" alt="@{{ contributor.login }}">
+            </a>
+                
+            <a href="https://github.com/{{ contributor.login }}" target="_blank">@{{ contributor.login }}</a> <br>
+            <b>Contribuições:</b> {{ contributor.contributions }} <br>
+          </div>
+        </div>
+    </div>
+    {% endfor %}
+</div>
