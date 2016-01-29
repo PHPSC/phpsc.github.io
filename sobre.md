@@ -39,7 +39,7 @@ com PHP;
                 </a>
                     
                 <b>{{ member.name }}</b><br>
-                <a href="https://github.com/{{ contributor.login }}" target="_blank">@{{ contributor.login }}</a> <br>
+                <a href="https://github.com/{{ contributor.login }}" target="_blank">@{{ contributor.login }}</a>
               </div>
             </div>
         </div>
@@ -57,6 +57,7 @@ com PHP;
 
 <div class="row">
     {% for contributor in site.github.contributors %}
+        {% assign member = site.data.members[contributor.login] %}
         <div class="col-md-2">
             <div class="panel panel-default">
               <div class="panel-body">
@@ -64,8 +65,8 @@ com PHP;
                   <img src="{{ contributor.avatar_url }}" class="img-rounded img-responsive" alt="@{{ contributor.login }}">
                 </a>
                     
+                <b>{{ member.name }}</b><br>
                 <a href="https://github.com/{{ contributor.login }}" target="_blank">@{{ contributor.login }}</a> <br>
-                <b>Contribuições:</b> {{ contributor.contributions }} <br>
               </div>
             </div>
         </div>
