@@ -38,7 +38,7 @@ com PHP;
                   <img src="{{ contributor.avatar_url }}" class="img-rounded img-responsive" alt="@{{ contributor.login }}">
                 </a>
                     
-                <b>{{ member }}</b><br>
+                <b>{{ member.name }}</b><br>
                 <a href="https://github.com/{{ contributor.login }}" target="_blank">@{{ contributor.login }}</a> <br>
               </div>
             </div>
