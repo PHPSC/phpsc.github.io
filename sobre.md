@@ -30,6 +30,33 @@ com PHP;
 
 <div class="row">
     {% for contributor in site.github.organization_members %}
+        {% assign member = site.data.members[contributor.login] %}
+        <div class="col-md-2">
+            <div class="panel panel-default">
+              <div class="panel-body">
+                <a href="https://github.com/{{ contributor.github }}" target="_blank">
+                  <img src="{{ contributor.avatar_url }}" class="img-rounded img-responsive" alt="@{{ contributor.login }}">
+                </a>
+                    
+                <b>{{ member }}</b><br>
+                <a href="https://github.com/{{ contributor.login }}" target="_blank">@{{ contributor.login }}</a> <br>
+              </div>
+            </div>
+        </div>
+    {% endfor %}
+</div>
+
+<hr>
+
+<h4>Contribuidores</h4>
+<p>O PHPSC existe graças a uma comunidade ativa e empenhada no crescimento da linguagem para todos.</p>
+<p>
+    Nosso site não poderia ser diferente, ele é feito de forma colaborativa, onde todos podem enviar suas contribuições 
+    através de um pull request ou cadastrando novas issues. Abaixo, os contribuidores a quem agradecemos do fundo do S2.
+</p>
+
+<div class="row">
+    {% for contributor in site.github.contributors %}
         <div class="col-md-2">
             <div class="panel panel-default">
               <div class="panel-body">
