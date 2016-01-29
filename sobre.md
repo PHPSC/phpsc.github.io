@@ -74,7 +74,7 @@ com PHP;
     <div class="col-md-2">
         <div class="panel panel-default">
           <div class="panel-body text-center">
-            <h2><a href="https://github.com/PHPSC/phpsc.github.io#fork-destination-box" target="_blank"><i class="fa fa-code-fork fa-4x"></i></a></h2>
+            <h3><a href="https://github.com/PHPSC/phpsc.github.io#fork-destination-box" target="_blank"><i class="fa fa-code-fork fa-4x"></i></a></h3>
                 
             <b>Você aqui!</b>
           </div>
