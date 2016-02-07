@@ -27,7 +27,7 @@ Já em um Meetup, você pode encontrar pessoas que tenha experiência, e será u
 ## Influência
 A influência é muito presente em Meetups, seja o você como influenciado ou influenciador, em ambos os casos, há ganhadores.
 
-Como influenciado, eu aprendo muito com conversas que desafiaram-me, e motivaram-me a ir além, pesquisar e extrair qualidade. É algo que você aprende a nunca deixar de lado.
+Como influenciado, eu aprendi muito com conversas que desafiaram-me, e motivaram-me a ir além, pesquisar e extrair qualidade. É algo que você aprende a nunca deixar de lado.
 
 Como influenciador, estou fazendo isso agora, mostrando minha experiência, e como você poderá absorve-lá e influenciar no futuro.
 
