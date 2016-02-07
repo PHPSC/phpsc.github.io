@@ -1,4 +1,5 @@
 # PHPSC
+[![Build Status](https://travis-ci.org/PHPSC/phpsc.github.io.svg?branch=master)](https://travis-ci.org/PHPSC/phpsc.github.io)
 
 Site do Grupo de Usuários PHP de Santa Catarina
 
