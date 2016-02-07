@@ -14,7 +14,7 @@ facebook_username: santa.catarina.elephants
 linkedin_id: 3632979
 
 # Build settings
-highlighter: pygments
+highlighter: rouge
 timezone: America/Sao_Paulo
 permalink: pretty
 
