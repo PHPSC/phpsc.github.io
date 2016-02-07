@@ -5,13 +5,14 @@ layout: post
 comments: true
 slug: por-que-participar-de-meetups
 categories:
-  - Eventos
+  - Meetups
+  - PHPSC
 tags:
   - Meetup
   - PHPSC
   - FloripaJS
-    
 ---
+
 Quando me mudei para Florianópolis (por volta de Julho de 2014), eu não tinha absolutamente nenhuma amigo na cidade, foi nesse momento que resolvi ir ao um Meetup, e hoje conheço muitos profissionais que são meus amigos, mas esse esta longe se ser o principal benefícios dos encontros locais.
 
 #Boost no conhecimento
