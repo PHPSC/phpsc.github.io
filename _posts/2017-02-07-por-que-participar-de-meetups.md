@@ -13,9 +13,9 @@ tags:
   - FloripaJS
 ---
 
-Quando me mudei para Florianópolis (por volta de Julho de 2014), eu não tinha absolutamente nenhuma amigo na cidade, foi nesse momento que resolvi ir ao um Meetup, e hoje conheço muitos profissionais que são meus amigos, mas esse esta longe de ser o principal benefício dos Meetups.
+Quando me mudei para Florianópolis (por volta de Julho de 2014), eu não tinha absolutamente nenhum amigo na cidade, foi nesse momento que resolvi ir ao um Meetup, e hoje conheço muitos profissionais que são meus amigos, mas esse esta longe de ser o principal benefício dos Meetups.
 
-#Boost no conhecimento
+## Boost no conhecimento
 Um dos pontos mais legais de conversar com pessoas da mesma área é a velocidade no ganho de conhecimento. Mas você pode questionar, dizendo: Eu pesquiso no google ou eu compro livros.
 
 Nenhum dos pontos citados é ineficaz, porém, a web tem muitas inverdades e você não cria uma opinião muito solida, fica com mais dúvidas em geral.
@@ -34,15 +34,15 @@ Somos influenciados e influenciamos o tempo todo, o importante é ser consciente
 
 Você não precisa ser mestre para ensinar.
 
-#Oportunidade de trabalho
+## Oportunidade de trabalho
 
 Mostre suas habilidades, compartilhe conhecimento com as pessoas que vão aos Meetups, seja em um talk ou conversas aleatórias.
 
-O motivo para mostrar seus habilidades e perfil poderá ajudar você a encontrar uma oportunidade de trabalho com valores que estejam alinhados com os seus, e as pessoas presentes, possivelmente conhecerá sua competência (encare isso como o famoso QI).
+O motivo para mostrar suas habilidades e perfil poderá ajudar você a encontrar uma oportunidade de trabalho com valores que estejam alinhados com os seus, e as pessoas presentes, possivelmente conhecerá sua competência (encare isso como o famoso QI).
 
 Mostre proatividade.
 
-# Economia vs Economia
+## Economia vs Economia
 A maioria dos Meetups é organizada por comunidade para comunidade.
 
 Até hoje nunca paguei para ir em um Meetup. Isso "soa" como conteúdo de baixa qualidade por não ser pago, sendo fator decisivo para não ir, pois não representa nenhum valor monetário.
@@ -52,10 +52,10 @@ Digamos que você se enquadre nesse ponto, analisando o que citei, sua economia 
 No fim das contas, não tratar um evento gratuito como valoroso pode lhe custar caro.
 
 
-# Conclusão
+## Conclusão
 O foco dessa publicação é mostrar o valor dos Meetups, o por que participar, apoiar, divulgar.
 
-Quem vai, sempre ganhará. Não se sabe o quando você conhece ou os outros conhecem, mas dentro de um Meetup, isso gera muito conhecimento para ambos.
+Quem vai, sempre ganhará. Não se sabe o quanto você conhece ou os outros conhecem, mas dentro de um Meetup, isso gera muito conhecimento para ambos.
 
 Quero destacar dois Meetups que sempre estou presente e ajudo como posso para ambos terem sucesso, e para todos ganharem. 
 
