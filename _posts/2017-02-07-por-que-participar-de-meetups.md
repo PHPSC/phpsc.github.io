@@ -24,7 +24,8 @@ Sobre livro, é o melhor caminho, mas você poderá demorar um bom tempo até te
 
 Já em um Meetup, você pode encontrar pessoas que tenha experiência, e será um grande auxilio para você. Compartilhando links valiosos, título de livros de qualidade (que vale o tempo gasto) e com toda certeza, uma conversa enriquecedora.
 
-Influência A influência é muito presente em Meetups, seja o você como influenciado ou influenciador, em ambos os casos, há ganhadores.
+## Influência
+A influência é muito presente em Meetups, seja o você como influenciado ou influenciador, em ambos os casos, há ganhadores.
 
 Como influenciado, eu aprendo muito com conversas que desafiaram-me, e motivaram-me a ir além, pesquisar e extrair qualidade. É algo que você aprende a nunca deixar de lado.
 
