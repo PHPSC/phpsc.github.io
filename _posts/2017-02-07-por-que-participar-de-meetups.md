@@ -13,7 +13,7 @@ tags:
   - FloripaJS
 ---
 
-Quando me mudei para Florianópolis (por volta de Julho de 2014), eu não tinha absolutamente nenhuma amigo na cidade, foi nesse momento que resolvi ir ao um Meetup, e hoje conheço muitos profissionais que são meus amigos, mas esse esta longe se ser o principal benefícios dos encontros locais.
+Quando me mudei para Florianópolis (por volta de Julho de 2014), eu não tinha absolutamente nenhuma amigo na cidade, foi nesse momento que resolvi ir ao um Meetup, e hoje conheço muitos profissionais que são meus amigos, mas esse esta longe se ser o principal benefícios dos Meetups.
 
 #Boost no conhecimento
 Um dos pontos mais legais de conversar com pessoas da mesma área é a velocidade no ganho de conhecimento. Mas você pode questionar, dizendo: Eu pesquiso no google ou eu compro livros.
