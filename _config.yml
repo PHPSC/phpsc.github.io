@@ -30,3 +30,5 @@ gems:
 
 sass:
   style: compressed
+
+exclude: [vendor]
