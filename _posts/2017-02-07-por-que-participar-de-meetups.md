@@ -45,7 +45,7 @@ Mostre proatividade.
 # Economia vs Economia
 A maioria dos Meetups é organizada por comunidade para comunidade.
 
-Até hoje nunca paguei para ir em um Meetup. Isso "soa" como conteúdo de baixa qualidade por não ser pagado, sendo fator decisivo para não ir, pois não representa nenhum valor monetário.
+Até hoje nunca paguei para ir em um Meetup. Isso "soa" como conteúdo de baixa qualidade por não ser pago, sendo fator decisivo para não ir, pois não representa nenhum valor monetário.
 
 Digamos que você se enquadre nesse ponto, analisando o que citei, sua economia de tempo, poderá ter um valor monetário maior, seja com evento pago, curso, livros-tutoriais… 
 
