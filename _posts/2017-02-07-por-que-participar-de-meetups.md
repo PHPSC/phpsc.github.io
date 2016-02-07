@@ -43,7 +43,7 @@ O motivo para mostrar seus habilidades e perfil poderá ajudar você a encontrar
 Mostre proatividade.
 
 # Economia vs Economia
-Uma das coisas mais legais em Meetups é que a maioria é organizada por comunidade para comunidade. 
+A maioria dos Meetups é organizada por comunidade para comunidade.
 
 Até hoje nunca paguei para ir em um Meetup. Isso "soa" como conteúdo de baixa qualidade por não ser pagado, sendo fator decisivo para não ir, pois não representa nenhum valor monetário.
 
