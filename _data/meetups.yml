@@ -60,3 +60,10 @@
   local: HostGator
   publico: 29
   url: http://www.meetup.com/pt-BR/PHPSC-Floripa/events/228030655/
+
+- name: 4th_phpub
+  titulo: 4th PHPSC Pub
+  data: 12 de Março · 19:00
+  local: Boteco Zé Mané
+  publico: X
+  url: http://www.meetup.com/pt-BR/PHPSC-Floripa/events/228866401/
