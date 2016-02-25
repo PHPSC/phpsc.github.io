@@ -14,12 +14,11 @@ tags:
 
 Saudações méros mortais, este é um artigo que escrevi e publiquei, inicialmente no meu blog, estou republicando-o no PHPSC, meu primeiro artigo publicado aqui. Neste artigo mostrarei sobre **annotations** (é claro, está no título).
 
-Como disse meu amigo [Guilherme Diego](https://medium.com/@guidiego){:target="_blank"} no artigo [Código Limpo é uma Responsabilidade — Blocos](https://medium.com/@guidiego/c%C3%B3digo-limpo-%C3%A9-uma-responsabilidade-blocos-5be1fdd8d341#.gbx5keq0s){:target="_blank"}:
+Como disse meu amigo [Guilherme Diego](https://medium.com/@guidiego) no artigo [Código Limpo é uma Responsabilidade — Blocos](https://medium.com/@guidiego/c%C3%B3digo-limpo-%C3%A9-uma-responsabilidade-blocos-5be1fdd8d341#.gbx5keq0s):
 
-{:.center}
 ![alt text](/uploads/2016/02/24-annotations/ler-curtir-compartilhar.png "Share the post.")
 
-Enquanto escrevo, vou ouvindo o álbum [As Daylight Dies](https://open.spotify.com/album/6iJEtgHTEbVlSS5isIS71z){:target="_blank"} da banda Killswitch Engage, é um banda muito bacana.
+Enquanto escrevo, vou ouvindo o álbum [As Daylight Dies](https://open.spotify.com/album/6iJEtgHTEbVlSS5isIS71z) da banda Killswitch Engage, é um banda muito bacana.
 
 Enfim, vamos ao que interessa, vem comigo.
 
@@ -38,7 +37,7 @@ No exemplo que mostrarei, utilizaremos os seguintes arquivos:
 3. **People.php**: Iremos consumir nossa annotation e informar os respectivos valores para segregarmos informações;
 4. **ReaderAnnotation.php**: Neste arquivo iremos juntar tudo e fazer uma sopa de letrinhas.
 
-Irei demonstrar os códigos no artigo, caso necessário, você poderá verificar no [Gist](https://gist.github.com/leonardorifeli/9c12f94b109cb7859ca9){:target="_blank"}.
+Irei demonstrar os códigos no artigo, caso necessário, você poderá verificar no [Gist](https://gist.github.com/leonardorifeli/9c12f94b109cb7859ca9).
 
 ## Dependência, sim você precisará dela.
 
@@ -58,7 +57,7 @@ Repare que, a classe em questão possui uma **annotation**, sendo ela **@Annotat
 
 ## Consumindo a annotation
 
-{:.center}
+
 ![alt text](/uploads/2016/02/24-annotations/consumindo.gif "Using the annotation PeopleAnnotation")
 
 Nesta etapa, iremos consumir a annotation **PeopleAnnotation** e informaremos os valores que a annotation disponibiliza.
@@ -82,10 +81,10 @@ Nesta etapa final, iremos instanciar a classe **AnnotationReader** para lermos a
 
 Classes nativas utilizadas no exemplo:
 
-* **[ReflectionClass()](http://php.net/manual/pt_BR/class.reflectionclass.php){:target="_blank"}**;
-* **[ReflectionObject()](http://php.net/manual/pt_BR/class.reflectionobject.php){:target="_blank"}**;
-* **[ReflectionProperty()](http://php.net/manual/pt_BR/class.reflectionproperty.php){:target="_blank"}**;
-* **[ReflectionMethod()](http://php.net/manual/pt_BR/class.reflectionmethod.php){:target="_blank"}**.
+* **[ReflectionClass()](http://php.net/manual/pt_BR/class.reflectionclass.php)**;
+* **[ReflectionObject()](http://php.net/manual/pt_BR/class.reflectionobject.php)**;
+* **[ReflectionProperty()](http://php.net/manual/pt_BR/class.reflectionproperty.php)**;
+* **[ReflectionMethod()](http://php.net/manual/pt_BR/class.reflectionmethod.php)**.
 
 Abaixo o exemplo:
 
@@ -94,7 +93,7 @@ Abaixo o exemplo:
 
 ## Resultado (você já deve ter executado os exemplos)
 
-{:.center}
+
 ![alt text](/uploads/2016/02/24-annotations/happy.gif "Using the annotation PeopleAnnotation")
 
 <script src="https://gist.github.com/leonardorifeli/9c12f94b109cb7859ca9.js?file=result.txt"></script>
@@ -102,9 +101,9 @@ Abaixo o exemplo:
 
 ## Referências
 
-1. [Artigo sobre o assunto em inglês](http://masnun.com/2012/08/12/using-annotations-in-php-with-doctrine-annotation-reader.html){:target="_blank"}
-2. [Doctrine - Documentação oficial](http://doctrine-common.readthedocs.org/en/latest/reference/annotations.html){:target="_blank"}
-3. [Documentação oficial PHP.net](http://php.net/){:target="_blank"}
+1. [Artigo sobre o assunto em inglês](http://masnun.com/2012/08/12/using-annotations-in-php-with-doctrine-annotation-reader.html)
+2. [Doctrine - Documentação oficial](http://doctrine-common.readthedocs.org/en/latest/reference/annotations.html)
+3. [Documentação oficial PHP.net](http://php.net/)
 
 ## Conclusão
 
