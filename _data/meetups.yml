@@ -67,3 +67,66 @@
   local: Boteco Zé Mané
   publico: X
   url: http://www.meetup.com/pt-BR/PHPSC-Floripa/events/228866401/
+
+- name: 5th_incompany
+  titulo: 5th PHPSC InCompany
+  data: 30 de Abril · 15:00
+  local: Univali - Campus Kobrasol
+  publico: X
+  url: https://www.meetup.com/pt-BR/PHPSC-Floripa/events/229612114/
+
+- name: tdc_2016
+  titulo: TheDevConf 2016 Trilha PHP
+  data: 11 de Maio · 9:00
+  local: Centro de Convenções CentroSul
+  publico: X
+  url: https://www.meetup.com/pt-BR/PHPSC-Floripa/events/230906387/
+
+- name: 5th_phpub
+  titulo: 5th PHPSC Pub
+  data: 14 de Maio · 20:00
+  local: Boteco Zé Mané
+  publico: X
+  url: https://www.meetup.com/pt-BR/PHPSC-Floripa/events/230177676/
+
+- name: 6th_phpub
+  titulo: 6th PHPSC Pub
+  data: 9 de Julho · 20:00
+  local: Boteco Zé Mané
+  publico: X
+  url: https://www.meetup.com/pt-BR/PHPSC-Floripa/events/230177694/
+
+- name: 7th_incompany
+  titulo: 7th PHPSC InCompany
+  data: 16 de Julho · 15:00
+  local: SocialBase
+  publico: X
+  url: https://www.meetup.com/pt-BR/PHPSC-Floripa/events/230176688/
+
+- name: 7th_phpub
+  titulo: 7th PHPSC Pub
+  data: 10 de Setembro · 20:00
+  local: Boteco Zé Mané
+  publico: X
+  url: https://www.meetup.com/pt-BR/PHPSC-Floripa/events/230177722/
+
+- name: 8th_incompany
+  titulo: 8th PHPSC InCompany
+  data: 8 de Outubro · 15:00
+  local: InPhonex
+  publico: X
+  url: https://www.meetup.com/pt-BR/PHPSC-Floripa/events/230176720/
+
+- name: 8th_phpub
+  titulo: 8th PHPSC Pub
+  data: 12 de Novembro · 20:00
+  local: Boteco Zé Mané
+  publico: X
+  url: https://www.meetup.com/pt-BR/PHPSC-Floripa/events/230177739/
+
+- name: 9th_incompany
+  titulo: 9th PHPSC InCompany
+  data: 10 de Dezembro · 15:00
+  local: (Precisa de um lugar)
+  publico: X
+  url: https://www.meetup.com/pt-BR/PHPSC-Floripa/events/230176781/
