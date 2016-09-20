@@ -103,3 +103,7 @@
 <!-- start Main -->
 <script src=" {{ '/js/main.js' | prepend: site.baseurl  | prepend: site.url }}"></script>
 <!-- end Main -->
+
+{% for js in page.files_js %}
+<script src=" {{ js | prepend: site.baseurl  | prepend: site.url }}"></script>
+{% endfor %}
