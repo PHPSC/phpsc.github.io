@@ -15,7 +15,7 @@
       </div>
       <div id="twitter" class="col-md-6">
         <div class="social-box">
-          <a class="twitter-timeline" href="https://twitter.com/PHP_SC" data-widget-id="671777378184638464">Tweets by @PHP_SC</a>
+          <a class="twitter-timeline" data-lang="pt" data-height="607" href="https://twitter.com/PHP_SC">Tweets by PHP_SC</a>
         </div><!-- /.social-box-->
       </div>
     </div>
@@ -75,17 +75,7 @@
 </footer>
 
 {% if page.comments %}
-<!-- start disqus -->
-<script>
-  var disqus_shortname = 'phpsc';
-
-  (function() {
-    var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
-    dsq.src = '//' + disqus_shortname + '.disqus.com/embed.js';
-    (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
-  })();
-</script>
-<!-- end disqus -->
+  <div id="comments-page"></div>
 {% endif %}
 
 <!-- start Jquery -->
