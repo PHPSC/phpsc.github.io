@@ -9,7 +9,7 @@ title: Faça Parte da Comunidade
 
 Salve galera,
 
-estamos organizando mais um []Meeup](https://www.meetup.com/pt-BR/PHPSC-Floripa/) e estamos precisando da ajuda de todos da comunidade.
+estamos organizando mais um [Meeup](https://www.meetup.com/pt-BR/PHPSC-Floripa/) e estamos precisando da ajuda de todos da comunidade.
 
 Os meetups agora terão um novo formato, deixando os encontros mais dinâmicos e divertidos, mas isso vocês só saberão **participando**.
 
