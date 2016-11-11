@@ -14,7 +14,7 @@ estamos organizando mais um [Meeup](https://www.meetup.com/pt-BR/PHPSC-Floripa/)
 Os meetups agora terão um novo formato, deixando os encontros mais dinâmicos e divertidos, mas isso vocês só saberão **participando**.
 
 Para participar - além de comparecer é claro - é fácil, caso tenha interesse em ser um palestrante ou tenha um tema que gostaria de 
-compartilhar com a comunidade na forma de um bom bate papo, não se acanhe e crie uma [issue](https://github.com/PHPSC/meetup) em nosso projeto 
+compartilhar com a comunidade na forma de um bom bate papo, não se acanhe e crie uma [issue](https://github.com/PHPSC/meetups) em nosso projeto 
  e nos ajude a tornar a comunidade cada vez mellhor.
  
 Um abração,
