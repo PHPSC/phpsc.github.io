@@ -2,13 +2,6 @@
 
 Site do Grupo de Usuários PHP de Santa Catarina
 
-## Rodando localmente
-
-```console
-docker build -t phpsc .
-docker run -it --name phpsc-site -p 4000:4000 --rm phpsc
-```
-
 ## Contribuindo
 
 Se tem interesse em nos ajudar, dê uma olhada [neste conteúdo](https://github.com/PHPSC/phpsc.github.io/wiki/Contribuindo).
