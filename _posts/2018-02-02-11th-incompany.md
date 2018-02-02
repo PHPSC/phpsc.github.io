@@ -14,7 +14,7 @@ Este ano já temos programados não somente o nosso
 como também teremos nossa tão querida [Trilha PHP](http://www.thedevelopersconference.com.br/tdc/2018/florianopolis/trilha-php) 
 no [TDC 2018](http://www.thedevelopersconference.com.br/).
 
-Desta vez, a empresa anfitriã será a [Social Base](https://www.socialbase.com.br/) e a grade já está definida, com
+Desta vez, a empresa anfitriã será a [SocialBase](https://www.socialbase.com.br/) e a grade já está definida, com
 conteúdos interessantíssimos e ainda mais tempo para um bom bate-papo.
 
 Então, se você está afim de muito networking e troca de conhecimento, então, até o dia **17 de Fevereiro**, anote aí 
