@@ -6,7 +6,7 @@ Site do Grupo de Usuários PHP de Santa Catarina
 
 ```console
 docker build -t phpsc .
-docker run -it --name phpsc-site -p 4000:4000 --rm phpsc
+docker run -it --name phpsc-site -v "$PWD":/usr/src/app -p 4000:4000 --rm phpsc
 ```
 
 ## Contribuindo
