@@ -1,3 +1,6 @@
 _site
 .sass-cache
 /.idea/
+/.buildpath
+/.project
+/.settings
