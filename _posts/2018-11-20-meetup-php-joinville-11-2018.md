@@ -3,11 +3,12 @@ title: 2th Meetup PHP Joinville
 author: hmarinjr
 layout: post
 comments: true
-slug: meetup-php-joinville-11-2018
+slug: 2th-meetup-php-joinville
 categories:
   - Eventos
 tags:
   - Comunidade
+  - PHP
   - Meetup
 ---
 
