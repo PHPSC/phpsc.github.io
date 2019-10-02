@@ -5,8 +5,7 @@ Site do Grupo de Usuários PHP de Santa Catarina
 ## Rodando localmente
 
 ```console
-docker build -t phpsc .
-docker run -it --name phpsc-site -v "$PWD":/usr/src/app -p 4000:4000 --rm phpsc
+docker-compose up
 ```
 
 ## Contribuindo
