@@ -1,0 +1,9 @@
+version: '3.4'
+services:
+  jekyll:
+    image: starefossen/github-pages
+    ports:
+      - "8080:4000"
+    volumes:
+      - .:/usr/src/app
+    tty: true
