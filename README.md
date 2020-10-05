@@ -10,7 +10,7 @@ docker-compose up
 
 ## Contribuindo
 
-Se tem interesse em nos ajudar, dê uma olhada [neste conteúdo](https://github.com/PHPSC/phpsc.github.io/wiki/Contribuindo).
+Se tem interesse em nos ajudar, dê uma olhada [neste conteúdo](CONTRIBUTING.md).
 
 ## Todo
 [ ] Configurar para utilizar as variáveis do Bootstrap nos arquivos Sass
