@@ -1,9 +1,9 @@
 ---
-title: PHPSC Pub - 08 de Junho de 2023
+title: PHPSC Pub - 10 de Agosto de 2023
 author: cassiosantos
 layout: post
 comments: true
-slug: phpscpub-08-junho-2023
+slug: phpsc-pub-10-de-agosto-de-2023
 categories:
   - Eventos
 tags:
@@ -11,13 +11,16 @@ tags:
   - PHPSC
 ---
 
-[![PHPSC PUB](/uploads/2023/phpscpub-08-junho-2023.jpg)](https://www.meetup.com/pt-BR/phpsc-floripa/events/293746198/)
+[![PHPSC PUB](/uploads/2023/phpsc-pub-10-de-agosto-de-2023.jpg)](https://www.meetup.com/pt-BR/phpsc-floripa/events/295223749/)
 {: style="text-align: center"}
 
-Venha participar do PHPSC Pub! Um Happy Hour imperdível para os entusiastas de PHP e programação em geral.
+📢 Confirme presença no PHP SC Pub! 🎉🎉
+🗓️ Dia: 10 de agosto
+🕖 Horário: 19h
+🏢 Local: Bar Outside, Av. Cláudio A. Barbosa, 24 - Balneário, Florianópolis - SC, 88075-220
 
-Aproveite para compartilhar conhecimentos, trocar experiências e relaxar com uma boa cerveja gelada.
+Não fique de fora desse encontro especial! Vamos reunir a comunidade PHP SC para trocar experiências, fazer networking e se divertir muito! Confirme sua presença aqui: https://www.meetup.com/pt-BR/phpsc-floripa/events/295223749/
 
-Estaremos no **Trapiche da Av. Beira Mar Norte à partir das 19h**. Não fique de fora dessa! Contamos com a sua presença.
+Compartilhe com seus amigos devs e vamos fazer desse evento um sucesso! 
 
-Cheers!
+Contamos com você! Até lá! 😉🚀
